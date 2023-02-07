@@ -2,4 +2,7 @@
 
 Hier liegt mein Bash-Skript aus der Übung
 
-- Vom: 2023-02-06/07
+-**Erstellt**: 2023-02-06/07
+
+- Hier steht eine schmissige Bemerkung, die ist so clever, dass sie nur in **deinem* Kopf existiert
+
